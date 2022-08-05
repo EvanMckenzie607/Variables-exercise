@@ -1,0 +1,14 @@
+C:\Users\615ev\Desktop\repos\Variables\Variables\obj\Debug\netcoreapp3.1\Variables.csproj.AssemblyReference.cache
+C:\Users\615ev\Desktop\repos\Variables\Variables\obj\Debug\netcoreapp3.1\Variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\615ev\Desktop\repos\Variables\Variables\obj\Debug\netcoreapp3.1\Variables.AssemblyInfoInputs.cache
+C:\Users\615ev\Desktop\repos\Variables\Variables\obj\Debug\netcoreapp3.1\Variables.AssemblyInfo.cs
+C:\Users\615ev\Desktop\repos\Variables\Variables\obj\Debug\netcoreapp3.1\Variables.csproj.CoreCompileInputs.cache
+C:\Users\615ev\Desktop\repos\Variables\Variables\bin\Debug\netcoreapp3.1\Variables.exe
+C:\Users\615ev\Desktop\repos\Variables\Variables\bin\Debug\netcoreapp3.1\Variables.deps.json
+C:\Users\615ev\Desktop\repos\Variables\Variables\bin\Debug\netcoreapp3.1\Variables.runtimeconfig.json
+C:\Users\615ev\Desktop\repos\Variables\Variables\bin\Debug\netcoreapp3.1\Variables.runtimeconfig.dev.json
+C:\Users\615ev\Desktop\repos\Variables\Variables\bin\Debug\netcoreapp3.1\Variables.dll
+C:\Users\615ev\Desktop\repos\Variables\Variables\bin\Debug\netcoreapp3.1\Variables.pdb
+C:\Users\615ev\Desktop\repos\Variables\Variables\obj\Debug\netcoreapp3.1\Variables.dll
+C:\Users\615ev\Desktop\repos\Variables\Variables\obj\Debug\netcoreapp3.1\Variables.pdb
+C:\Users\615ev\Desktop\repos\Variables\Variables\obj\Debug\netcoreapp3.1\Variables.genruntimeconfig.cache
